@@ -1,0 +1,75 @@
+data([
+  
+{ 
+"shop":"Mini Baguette",
+"address":"القدس, شارع صلاح الدين",
+"des":"أشهى و أطيب الوجبات السريعة و أسعار خاصة لطلاب المدارس",
+"preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-prn1/734054_517058558345808_1238309664_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517058558345808&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"960",
+"height":"717"
+}, 
+
+{ 
+"shop":"Mini Baguette",
+"address":"القدس, شارع صلاح الدين",
+"des":"اشتري شاندويش واحصل على كاسة شاي بشيكل واحد فقط",
+"preview":"http://sphotos-h.ak.fbcdn.net/hphotos-ak-ash4/295502_517059105012420_890231727_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517059105012420&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"547",
+"height":"409"
+}, 
+
+{ 
+"shop":"Almo Petra",
+"address":"القدس, واد الجوز المنطقة الصناعية",
+"des":"عروض على جميع سيارات KIA",
+"preview":"http://photos-e.ak.fbcdn.net/hphotos-ak-prn1/s720x720/69821_517381848313479_1897060906_n.jpg?dl=1",
+"details":"http://m.facebook.com/photo.php?fbid=517058558345808&id=517052915013039&set=a.517058555012475.1073741826.517052915013039&__user=659592408#!/photo.php?fbid=517381848313479&id=517052915013039&set=a.517058555012475.1073741826.517052915013039&__user=659592408",
+"width":"892",
+"height":"1222"
+},
+
+{ 
+"shop":"Almo Petra",
+"address":"القدس, واد الجوز المنطقة الصناعية",
+"des":"عروض على جميع سيارات KIA",
+"preview":"http://photos-c.ak.fbcdn.net/hphotos-ak-ash3/s720x720/625615_517381961646801_2042186981_n.jpg?dl=1",
+"details":"http://m.facebook.com/photo.php?fbid=517058558345808&id=517052915013039&set=a.517058555012475.1073741826.517052915013039&__user=659592408#!/photo.php?fbid=517381961646801&id=517052915013039&set=a.517058555012475.1073741826.517052915013039&__user=659592408",
+"width":"866",
+"height":"1240"
+},
+
+{ 
+"shop":"Almo Petra",
+"address":"القدس, واد الجوز المنطقة الصناعية",
+"des":"عروض على جميع سيارات KIA",
+"preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-prn1/555120_517060388345625_294376364_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517060388345625&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"602",
+"height":"451"
+},
+
+{ 
+"shop":"مجمع فاطمة الزهراء",
+"address":"القدس, شارع صلاح الدين",
+"des":"تنزيلات على جميع الملابس الشتوية",
+"preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash3/542733_517069588344705_1780926794_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517069588344705&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"727",
+"height":"409"
+},
+
+{ 
+"shop":"أحلى عرض للاعلان",
+"address":"",
+"des":"للاعلان هنا: 0547361168",
+"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash4/313821_517077528343911_1206891105_n.jpg",
+"details":"http://www.facebook.com/pages/%D8%A3%D8%AD%D9%84%D9%89-%D8%B9%D8%B1%D8%B6/517052915013039",
+"width":"603",
+"height":"409"
+}, 
+
+
+
+])
