@@ -3,7 +3,7 @@ data([
 { 
 "shop":"ستوديو سيراج",
 "address":"كفر عقب, بيت حنينا",
-"des":"عروض خاصة للعرسان",
+"des":"عرض خاصة للعرسان",
 "preview":"http://sphotos-d.ak.fbcdn.net/hphotos-ak-ash4/482342_519417924776538_1991629068_n.jpg",
 "details":"http://www.facebook.com/photo.php?fbid=519417924776538&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"325",
@@ -12,7 +12,7 @@ data([
 
 { 
 "shop":"Mini Baguette",
-"address":"القدس, شارع صلاح الدين",
+"address":" القدس, شارع صلاح الدين",
 "des":"أشهى و أطيب الوجبات السريعة و أسعار خاصة لطلاب المدارس",
 "preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-prn1/734054_517058558345808_1238309664_n.jpg",
 "details":"http://www.facebook.com/photo.php?fbid=517058558345808&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
