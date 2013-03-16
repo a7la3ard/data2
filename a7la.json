@@ -1,6 +1,16 @@
 data([
 
 { 
+"shop":"أزياء رائد",
+"address":"القدس, شارع صلاح الدين",
+"des":"عروض على التشكيلات الصيفية الجديدة",
+"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash3/559795_520238688027795_1439675500_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=520238688027795&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"386",
+"height":"409"
+}, 
+
+{ 
 "shop":"بيتزا هاوس",
 "address":"القدس, شارع صلاح الدين 27",
 "des":"عروض خاصة ... قريبا",
