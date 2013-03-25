@@ -11,13 +11,13 @@ data([
 "vid":"true"
 },
 { 
-"shop":"أحلى عرض",
-"address":"القدس",
-"des":"اول موقع دعاية الكتروني في منطقة القدس و رام الله",
-"preview":"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/1859_519763594741971_31342891_n.jpg",
-"details":"https://www.facebook.com/photo.php?fbid=519763594741971&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
-"width":"215",
-"height":"305"
+"shop":"Top Sport",
+"address":" القدس, شارع صلاح الدين",
+"des":"وصلتنا تشكيلة صيفية جديدة باسعار منافسة",
+"preview":"http://sphotos-e.ak.fbcdn.net/hphotos-ak-ash4/401990_524009994317331_13121076_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=524009994317331&set=pb.517052915013039.-2207520000.1364241336&type=3&theater",
+"width":"960",
+"height":"292"
 },
 { 
 "shop":"Pink Shoes",
