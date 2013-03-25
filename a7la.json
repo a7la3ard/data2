@@ -11,6 +11,15 @@ data([
 "vid":"true"
 },
 { 
+"shop":"بيتزا هاوس",
+"address":"القدس, شارع صلاح الدين 27",
+"des":"عروض خاصة",
+"preview":"http://sphotos-b.ak.fbcdn.net/hphotos-ak-ash3/599494_524019377649726_690761970_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=524019377649726&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"308",
+"height":"452"
+},
+{ 
 "shop":"ايلياء سبورت",
 "address":"القدس, شارع السلطان سليمان",
 "des":"تشكيلة كبيرة من الاحذية الرياضية",
@@ -113,17 +122,7 @@ data([
 "details":"http://www.facebook.com/photo.php?fbid=520238688027795&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"386",
 "height":"409"
-}, 
-
-{ 
-"shop":"بيتزا هاوس",
-"address":"القدس, شارع صلاح الدين 27",
-"des":"عروض خاصة ... قريبا",
-"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-prn1/63903_520230618028602_1016992792_n.jpg",
-"details":"http://www.facebook.com/photo.php?fbid=520230618028602&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
-"width":"460",
-"height":"409"
-}, 
+},  
 
 { 
 "shop":"ستوديو سيراج",
