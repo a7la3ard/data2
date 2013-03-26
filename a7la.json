@@ -20,6 +20,16 @@ data([
 "height":"452"
 },
 { 
+"shop":"ZUHER",
+"address":"القدس, شارع صلاح الدين بفرعيه و شارع الزهرة",
+"des":"وصلتنا تشكلية جديدة و باسعار مغرية",
+"preview":"http://sphotos-b.ak.fbcdn.net/hphotos-ak-ash4/388813_524228060962191_267818413_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=524228060962191&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"456",
+"height":"452"
+},
+
+{ 
 "shop":"بيتزا هاوس",
 "address":"القدس, شارع صلاح الدين 27",
 "des":"عروض خاصة",
