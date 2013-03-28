@@ -29,6 +29,15 @@ data([
 "height":"452"
 },
 { 
+"shop":"أزياء رائد",
+"address":"القدس, شارع صلاح الدين",
+"des":"عروض على التشكيلات الصيفية الجديدة",
+"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash3/559795_520238688027795_1439675500_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=520238688027795&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"386",
+"height":"409"
+},
+{ 
 "shop":"Top Sport",
 "address":" القدس, شارع صلاح الدين",
 "des":"وصلتنا تشكيلة صيفية جديدة باسعار منافسة",
@@ -130,18 +139,7 @@ data([
 "details":"http://www.facebook.com/photo.php?fbid=517060388345625&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"602",
 "height":"451"
-},
-
-{ 
-"shop":"أزياء رائد",
-"address":"القدس, شارع صلاح الدين",
-"des":"عروض على التشكيلات الصيفية الجديدة",
-"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash3/559795_520238688027795_1439675500_n.jpg",
-"details":"http://www.facebook.com/photo.php?fbid=520238688027795&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
-"width":"386",
-"height":"409"
 },  
-
 { 
 "shop":"ستوديو سيراج",
 "address":"كفر عقب, بيت حنينا",
